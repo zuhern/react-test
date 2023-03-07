@@ -3,7 +3,8 @@ import './App.css';
 
 /**
  * @function App
- * @author   zuhern
+ * @author   heather
+ * @discription  앱 루트
  */
 function App() {
   return (
